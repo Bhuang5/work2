@@ -59,7 +59,6 @@ struct node* free_list(struct node *front){
 
 int main(){
   struct node *a = 0;
-  int length = 0;
   printf("Node a: \n");
   print_list(a); 
 
